@@ -1,0 +1,26 @@
+
+
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: brown;
+}
+
+.container {
+  text-align: center;
+  line-height: 7rem;
+  font-size: 7rem;
+
+}
+.btn {
+  font-size: 5rem;
+  margin-bottom: 5rem;
+  margin-top: 5rem;
+  border: 1rem solid black;
+}
+
+.title{
+  text-decoration: underline;
+}
